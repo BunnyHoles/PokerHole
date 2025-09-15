@@ -4,6 +4,14 @@ plugins {
 
 group = 'BunnyHoles'
 version = '1.0.0'
+description = '포커 게임 구현 프로젝트'
+
+// 프로젝트 메타데이터
+ext {
+    projectUrl = 'https://github.com/BunnyHoles/PokerHole'
+    organizationUrl = 'https://github.com/BunnyHoles'
+    projectDescription = 'Java로 구현한 포커 게임'
+}
 
 repositories {
     mavenCentral()
