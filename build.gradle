@@ -11,6 +11,8 @@ ext {
     projectUrl = 'https://github.com/BunnyHoles/PokerHole'
     organizationUrl = 'https://github.com/BunnyHoles'
     projectDescription = 'Java로 구현한 포커 게임'
+    license = 'MIT'
+    licenseUrl = 'https://opensource.org/licenses/MIT'
 }
 
 repositories {
